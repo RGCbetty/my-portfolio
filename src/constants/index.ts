@@ -117,7 +117,7 @@ export const PROJECTS = [
     image: project4,
     link: "https://aws.amazon.com/marketplace/pp/prodview-f4i3z5xajwm2y",
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "A Unified Agent Portal (SaaS) is the modern, cloud-powered command center for customer service agents. It breaks down information silos and channel barriers, empowering agents to deliver efficient, personalized, and satisfying customer experiences through a single, streamlined, and easily managed interface.A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
     technologies: ["HTML", "CSS", "React", "Express", "NodeJS"],
   },
 ];
