@@ -19,14 +19,23 @@ React Query, Axios & GraphQL Creating reusable classes/mixins styles using LESS
 to be more convenient in development. Created/Maintained plugins and API for quotation , reports, pricing, payments, shipping, taxes, and more. to connect to the data sources. Implements unit testing using Jest for React and (Mocha, chai) for NodeJS. Building
 & Deploying project using CircleCI, Docker, GitHub, AWS Web Services. Utilized
 Git and GitHub for version control, ensuring efficient project maintenance and collaboration. Also have broad experience of working on end to end software development through Agile methodology (Scrum).`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    technologies: [
+      "HTML",
+      "CSS",
+      "React Native",
+      "ReactJS",
+      "NodeJS",
+      "NextJS",
+      "AWS",
+      "MongoDB",
+    ],
   },
   {
     year: "2022 - 2023",
     role: "Web Developer",
     company: "Collabera Inc.",
     description: `Delivering web software solution using latest technology(ReactJS, NodeJS) Creating reusable classes/mixins styles using LESS (CSS preprocessors), and reusable component in react and used Styled Component to be more convenient in development. Created API for quotation, reports, pricing and payment to connect to the data sources. Building & Deploying project using CircleCI, Docker, GitHub, AWS Web Services. `,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    technologies: ["HTML", "CSS", "ReactJS", "NextJS", "MongoDB"],
   },
   {
     year: "2021 - 2022",
@@ -39,7 +48,18 @@ Also:
 -	Unit Testing 
 -	Front-end Integration 
 -	Agile Methodologies  `,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    technologies: [
+      "HTML",
+      "CSS",
+      "React Native",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "AWS Step Function",
+      "AWS Lambda",
+      "AWS RDS",
+      "MongoDB",
+    ],
   },
   {
     year: "2019 - 2021",
@@ -50,7 +70,15 @@ in developing in-house web portal in assign department to automate 50% of produc
 Including the ff. 
 -	HRD Web Scheduler: Managing meeting schedule where user can set meetings on the web and check if all attendees are available and can generate reports to see how frequent each departments render meeting.
 -	HRD Henkou System: Monitors how long the changes in documents take by manually setting up what time/date they started and finished. This system includes all of the departments in the company. It automatically trace where is the plan processing on per department so each user can easily identify the status of document/plan if finished or not. It can also generate analytics and reports and have a master maintenance where admin users can change the settings.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    technologies: [
+      "HTML",
+      "CSS",
+      "VueJS",
+      "ExpressJS",
+      "AWS Lambda",
+      "AWS API Gateway",
+      "AWS DynamoDB",
+    ],
   },
 ];
 
@@ -64,8 +92,8 @@ export const PROJECTS = [
       "HTML",
       "CSS",
       "React",
-      "Node.js",
-      "MySQL",
+      "NodeJS",
+      "AWS",
       "WordPress",
       "Zapier",
     ],
@@ -74,15 +102,15 @@ export const PROJECTS = [
     title: "E-Commerce App",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "An application for features like product listing, shopping cart, and user authentication.",
+    technologies: ["React", "React Native", "NodeJS", "AWS"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["HTML", "CSS", "React", "Vite", "Tailwind", "Typescript"],
   },
   {
     title: "Unified Agent Portal (SaaS)",
@@ -90,7 +118,7 @@ export const PROJECTS = [
     link: "https://aws.amazon.com/marketplace/pp/prodview-f4i3z5xajwm2y",
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["HTML", "CSS", "React", "Express", "NodeJS"],
   },
 ];
 
